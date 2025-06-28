@@ -1,0 +1,5 @@
+D:\estruc de datos\semana05\obj\Debug\net9.0\semana05.GeneratedMSBuildEditorConfig.editorconfig
+D:\estruc de datos\semana05\obj\Debug\net9.0\semana05.AssemblyInfoInputs.cache
+D:\estruc de datos\semana05\obj\Debug\net9.0\semana05.AssemblyInfo.cs
+D:\estruc de datos\semana05\obj\Debug\net9.0\semana05.csproj.CoreCompileInputs.cache
+D:\estruc de datos\semana05\obj\Debug\net9.0\semana05.sourcelink.json

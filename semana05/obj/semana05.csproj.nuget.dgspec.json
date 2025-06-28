@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\estrctura  de datos se\\semana05\\semana05.csproj": {}
+    "D:\\estruc de datos\\semana05\\semana05.csproj": {}
   },
   "projects": {
-    "D:\\estrctura  de datos se\\semana05\\semana05.csproj": {
+    "D:\\estruc de datos\\semana05\\semana05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\estrctura  de datos se\\semana05\\semana05.csproj",
+        "projectUniqueName": "D:\\estruc de datos\\semana05\\semana05.csproj",
         "projectName": "semana05",
-        "projectPath": "D:\\estrctura  de datos se\\semana05\\semana05.csproj",
+        "projectPath": "D:\\estruc de datos\\semana05\\semana05.csproj",
         "packagesPath": "C:\\Users\\Sitelcomp\\.nuget\\packages\\",
-        "outputPath": "D:\\estrctura  de datos se\\semana05\\obj\\",
+        "outputPath": "D:\\estruc de datos\\semana05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sitelcomp\\AppData\\Roaming\\NuGet\\NuGet.Config"
