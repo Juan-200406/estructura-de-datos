@@ -50,17 +50,7 @@
         // 3. Mostrar resultados
         Console.WriteLine("\n--- Reporte de Vacunación ---");
 
-        Console.WriteLine($"\n1. Ciudadanos que no se han vacunado ({ciudadanosNoVacunados.Count}):");
-        MostrarLista(ciudadanosNoVacunados);
-
-        Console.WriteLine($"\n2. Ciudadanos que han recibido ambas dosis ({ambasDosis.Count}):");
-        MostrarLista(ambasDosis);
-        
-        Console.WriteLine($"\n3. Ciudadanos que solo han recibido la vacuna de Pfizer ({soloPfizer.Count}):");
-        MostrarLista(soloPfizer);
-
-        Console.WriteLine($"\n4. Ciudadanos que solo han recibido la vacuna de AstraZeneca ({soloAstraZeneca.Count}):");
-        MostrarLista(soloAstraZeneca);
+     
         
         Console.WriteLine("\n--- Fin del Reporte ---");
     }
